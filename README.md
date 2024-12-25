@@ -1,12 +1,12 @@
-1. Technical Used
-# Backend: Java Spring Boot
-# Frontend: ReactJS (with TypeScript)
-# Database: MySQL
-# Authentication: JWT, Security
-# Other: VNPay Sandbox
-# API Documentation: Postman
+# 1. Technical Used
+Backend: Java Spring Boot
+Frontend: ReactJS (with TypeScript)
+Database: MySQL
+Authentication: JWT, Security
+Other: VNPay Sandbox
+API Documentation: Postman
 # Installation
-2. Backend (Spring Boot)
+# 2. Backend (Spring Boot)
 # Clone the repository:
 git clone https://github.com/thanhbui230202/WEBFILM.git
 # Navigate to the backend directory:
