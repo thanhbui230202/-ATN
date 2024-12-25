@@ -1,0 +1,80 @@
+Admin
+{
+  "username": "admin",
+  "email": "admin@gmail.com",
+  "password": "admin123"
+}
+User
+{
+  "username": "vuive",
+  "password": "password123"
+}
+//
+Category
+[
+    {
+        "categoryId": 1,
+        "categoryName": "Hành động",
+        "description": "Các bộ phim thuộc thể loại hành động thường tập trung vào các pha rượt đuổi, đánh đấm, và những tình huống căng thẳng, kịch tính. Nhân vật chính thường phải đối mặt với nhiều thử thách và nguy hiểm."
+    },
+    {
+        "categoryId": 2,
+        "categoryName": "Tình cảm",
+        "description": "Thể loại này xoay quanh những câu chuyện tình yêu lãng mạn giữa các nhân vật chính. Phim thường khắc họa cảm xúc, những xung đột, và sự gắn kết giữa hai người yêu nhau."
+    },
+    {
+        "categoryId": 3,
+        "categoryName": " Kinh dị",
+        "description": "Các bộ phim kinh dị thường tạo ra cảm giác sợ hãi, hồi hộp, và ám ảnh thông qua các yếu tố như quái vật, ma quỷ, hoặc các hiện tượng siêu nhiên."
+    },
+    {
+        "categoryId": 4,
+        "categoryName": "Hài hước",
+        "description": "Thể loại hài hước mang lại tiếng cười cho khán giả thông qua các tình huống dí dỏm, lời thoại hài hước, hoặc các nhân vật ngộ nghĩnh."
+    },
+    {
+        "categoryId": 5,
+        "categoryName": "Khoa học viễn tưởng",
+        "description": "Phim khoa học viễn tưởng thường xoay quanh các yếu tố như công nghệ tương lai, không gian, thời gian, hoặc các nền văn minh ngoài Trái Đất."
+    },
+    {
+        "categoryId": 6,
+        "categoryName": "Phiêu lưu",
+        "description": "Các bộ phim phiêu lưu thường kể về những cuộc hành trình, khám phá địa điểm mới lạ, hoặc các nhiệm vụ đặc biệt với nhiều nguy hiểm và thử thách."
+    },
+    {
+        "categoryId": 7,
+        "categoryName": "Hoạt hình",
+        "description": "Thể loại này sử dụng đồ họa máy tính hoặc vẽ tay để tạo ra các nhân vật và câu chuyện. Nội dung thường phù hợp với cả trẻ em và người lớn."
+    },
+    {
+        "categoryId": 8,
+        "categoryName": "Kỳ ảo",
+        "description": "Phim kỳ ảo đưa người xem vào thế giới giả tưởng với những phép thuật, sinh vật huyền bí, và các truyền thuyết cổ xưa."
+    },
+    {
+        "categoryId": 9,
+        "categoryName": "Tâm lý",
+        "description": "Các bộ phim tâm lý tập trung vào sự phát triển nhân vật và mối quan hệ giữa họ, thường khai thác sâu vào các vấn đề xã hội, cảm xúc, hoặc đạo đức."
+    },
+    {
+        "categoryId": 10,
+        "categoryName": "Trinh thám",
+        "description": "Thể loại này thường liên quan đến các bí ẩn, các vụ án mạng hoặc câu chuyện cần được giải đáp, thường mang lại cảm giác hồi hộp và bất ngờ cho khán giả."
+    },
+    {
+        "categoryId": 11,
+        "categoryName": "Test",
+        "description": "Các bộ phim thuộc thể loại hành động thường tập trung vào các pha rượt đuổi, đánh đấm, và những tình huống căng thẳng, kịch tính. Nhân vật chính thường phải đối mặt với nhiều thử thách và nguy hiểm."
+    },
+    {
+        "categoryId": 12,
+        "categoryName": "Abc",
+        "description": "Abc"
+    },
+    {
+        "categoryId": 13,
+        "categoryName": "Abc1",
+        "description": "Abc1"
+    }
+]

@@ -1,0 +1,19 @@
+
+q	java:S116"URename this field "SECRET_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ÂÅÄ8™°°â·2
+>
+java:S1170"!Make this final field static too.(×ÂÅÄ8›°°â·2
+W
+java:S18547":Remove this useless assignment to local variable "claims".(äª¬ã8«ë·â·2
+H
+java:S14817"+Remove this unused "claims" local variable.(äª¬ã8´ë·â·2
+P
+java:S1128"3Remove this unused import 'jakarta.servlet.Filter'.(ÏíÉí8æËâ·2
+[
+java:S1128
+"9Remove this unused import 'jakarta.servlet.FilterConfig'.(ÃÆÊ÷ùÿÿÿÿ8æËâ·2
+]
+java:S1128";Remove this unused import 'jakarta.servlet.ServletRequest'.(¿òßüÿÿÿÿ8æËâ·2
+^
+java:S1128"<Remove this unused import 'jakarta.servlet.ServletResponse'.(Õ©êûÿÿÿÿ8æËâ·2
+j
+java:S1128"MRemove this unused import 'org.springframework.security.core.Authentication'.(ñıÓ“8æËâ·2
