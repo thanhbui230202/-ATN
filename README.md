@@ -1,26 +1,28 @@
-# 1. Technical Used
+# WEBFILM
+A platform for managing and booking movie tickets with integrated payment options using VNPay Sandbox.
+# 1. Technical Stack
 Backend: Java Spring Boot
 Frontend: ReactJS (with TypeScript)
 Database: MySQL
-Authentication: JWT, Security
-Other: VNPay Sandbox
+Authentication: JWT, Spring Security
+Other: VNPay Sandbox for payment integration
 API Documentation: Postman
-# Installation
-# 2. Backend (Spring Boot)
-# Clone the repository:
+# 2. Installation
+Backend (Spring Boot)
+1. Clone the repository:
 git clone https://github.com/thanhbui230202/WEBFILM.git
-# Navigate to the backend directory:
+2. Navigate to the backend directory:
 cd BE
-# Install dependencies using Gradle:
+3. Install dependencies using Gradle:
 gradle build
-# Run the Spring Boot application:
+4. Run the Spring Boot application:
 gradle bootRun
-# The backend should now be running at http://localhost:5505
-3. Frontend (ReactJS with TypeScript)
-# Navigate to the frontend directory:
+The backend should now be running at http://localhost:5505
+Frontend (ReactJS with TypeScript)
+1. Navigate to the frontend directory:
 cd FE
-# Install dependencies:
+2. Install dependencies:
 npm install
-# Start the React development server:
+3. Start the React development server:
 npm start
-# The frontend should now be running at http://localhost:3000
+The frontend should now be running at http://localhost:3000
